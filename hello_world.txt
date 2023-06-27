@@ -1,0 +1,1 @@
+this is the first published file i created for the Odin project, this file goes up jnue 26 23 as a part of the git basic lesson 
