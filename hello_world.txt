@@ -1,1 +1,1 @@
-this is the first published file i created for the Odin project, this file goes up june 26 2023 as a part of the git basic lesson 
+This is the first published file I created for the Odin project, this file goes up june,26 2023 as a part of the git basic lesson
